@@ -12,7 +12,7 @@ Download the repository's key for the system to verify Kali Linux packages and a
 Update again. The new "kali-rolling" repository should be recognised
 - sudo apt update
 
-#Install all the things
+# Install all the things
 
 The "kali-linux-default" package contains all the tools in a standard Kali Linux distribution.
 - sudo apt install kali-linux-default
