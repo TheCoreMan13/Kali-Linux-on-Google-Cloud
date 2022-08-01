@@ -26,6 +26,8 @@ Finally, you need to install Xrdp. This will allow you to access and interact wi
 Create a username
 - sudo adduser (name of the username)
 
+- sudo adduser (name of the username) sudo
+
 - reboot
 
 - Enjoy! 
